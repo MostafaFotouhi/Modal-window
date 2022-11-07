@@ -1,0 +1,19 @@
+{
+  "name": "modal-window",
+  "version": "1.0.0",
+  "description": "Practise with modals(open & cloase)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MostafaFotouhi/Modal-window.git"
+  },
+  "author": "Mostafa Fotouhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostafaFotouhi/Modal-window/issues"
+  },
+  "homepage": "https://github.com/MostafaFotouhi/Modal-window#readme"
+}
